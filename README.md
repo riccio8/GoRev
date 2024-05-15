@@ -1,3 +1,4 @@
+```
 # GoRev
 
 Welcome to GoRev, a powerful tool for reverse engineering in Go.
@@ -8,22 +9,23 @@ GoRev is a versatile tool designed to assist in reverse engineering tasks, parti
 
 ## The Tree
 
+```
 reverse_engineering_go/
 │
 ├── cmd/
-│ └── reverse-engineering/
-│ └── main.go
+│   └── reverse-engineering/
+│       └── main.go
 │
 ├── internal/
-│ ├── analysis/
-│ │ ├── disassembler.go
-│ │ └── pe_analyzer.go
-│ │
-│ └── ui/
-│ └── windows_gui.go
+│   ├── analysis/
+│   │   ├── disassembler.go
+│   │   └── pe_analyzer.go
+│   │
+│   └── ui/
+│       └── windows_gui.go
 │
 └── go.mod
-
-
+```
 
 The project directory structure gives you a clear insight into the organization of GoRev, with its essential components neatly arranged for ease of navigation and development.
+```
