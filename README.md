@@ -1,4 +1,3 @@
-```
 # GoRev
 
 Welcome to GoRev, a powerful tool for reverse engineering in Go.
@@ -9,7 +8,7 @@ GoRev is a versatile tool designed to assist in reverse engineering tasks, parti
 
 ## The Tree
 
-```
+```bash
 reverse_engineering_go/
 │
 ├── cmd/
@@ -28,4 +27,3 @@ reverse_engineering_go/
 ```
 
 The project directory structure gives you a clear insight into the organization of GoRev, with its essential components neatly arranged for ease of navigation and development.
-```
