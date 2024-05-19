@@ -11,9 +11,8 @@ GoRev is a versatile tool designed to assist in reverse engineering tasks, parti
 ```bash
 reverse_engineering_go/
 │
-├── cmd/
-│   └── reverse-engineering/
-│       └── main.go
+├── Gorev/
+│   └── main.go
 │
 ├── internal/
 │   ├── analysis/
